@@ -1,5 +1,3 @@
-# reading
-
 ## reading list
 
 ### Apr 2020

@@ -7,6 +7,6 @@
 
 
 
-## W List
+## Waiting List
 
 * 8일간의 선형대수학, 박부성, 경문사
